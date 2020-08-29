@@ -2,6 +2,8 @@
 
 👋 Welcome to your new Foam Workspace!
 
+> **If your workspace is large it may not be wisest to use this starter for deploying your notes. The search will delay the time-to-interactive considerably, as it has to download the whole index!**
+
 ## Getting started
 
 This documentation assumes that you have a GitHub account and have [Visual Studio Code](https://code.visualstudio.com/) installed on your Linux/MacOS/Windows machine.

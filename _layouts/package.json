@@ -1,0 +1,27 @@
+{
+  "name": "foam-template-gatsby-search",
+  "private": true,
+  "description": "",
+  "version": "1.0.0",
+  "dependencies": {
+    "downshift": "^6.0.3",
+    "gatsby": "^2.23.18",
+    "gatsby-plugin-local-search": "^1.1.1",
+    "gatsby-plugin-manifest": "^2.4.23",
+    "gatsby-theme-garden": "^0.1.44",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-use-flexsearch": "^0.1.1"
+  },
+  "keywords": [
+    "foam"
+  ],
+  "license": "MIT",
+  "main": "n/a",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "start": "gatsby serve",
+    "clean": "gatsby clean"
+  }
+}

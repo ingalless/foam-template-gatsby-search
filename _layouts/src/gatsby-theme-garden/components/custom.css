@@ -1,0 +1,18 @@
+blockquote {
+  border-left: 4px solid var(--link);
+  background: var(--references-bg);
+  margin: 6px 0px;
+}
+blockquote p {
+  padding: 2px 4px;
+  padding-left: 8px;
+}
+h2 {
+  font-size: 1.4em;
+  margin: 0.5em 0;
+}
+h4,
+h5,
+h6 {
+  font-weight: 500;
+}
