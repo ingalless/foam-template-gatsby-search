@@ -1,3 +1,5 @@
+> You should use the template that this project is based on as search has been added! You can find it here: https://github.com/mathieudutour/foam-gatsby-template
+
 # Foam
 
 👋 Welcome to your new Foam Workspace!
